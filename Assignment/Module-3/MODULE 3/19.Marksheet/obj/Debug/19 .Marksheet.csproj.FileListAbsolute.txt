@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\bin\Debug\19.Marksheet.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\bin\Debug\19.Marksheet.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\bin\Debug\19.Marksheet.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\obj\Debug\19 .Marksheet.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\obj\Debug\19 .Marksheet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\obj\Debug\19.Marksheet.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\19.Marksheet\obj\Debug\19.Marksheet.pdb

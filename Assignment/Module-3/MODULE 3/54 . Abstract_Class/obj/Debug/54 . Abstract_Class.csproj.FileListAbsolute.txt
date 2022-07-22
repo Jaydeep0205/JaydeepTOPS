@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\bin\Debug\_54.Abstract_Class.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\bin\Debug\_54.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\bin\Debug\_54.Abstract_Class.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\obj\Debug\54 . Abstract_Class.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\obj\Debug\54 . Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\obj\Debug\_54.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\54 . Abstract_Class\obj\Debug\_54.Abstract_Class.pdb

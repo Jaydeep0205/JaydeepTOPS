@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\bin\Debug\6.String operation.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\bin\Debug\6.String operation.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\bin\Debug\6.String operation.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\obj\Debug\6 .String operation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\obj\Debug\6.String operation.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\6.String operation\obj\Debug\6.String operation.pdb

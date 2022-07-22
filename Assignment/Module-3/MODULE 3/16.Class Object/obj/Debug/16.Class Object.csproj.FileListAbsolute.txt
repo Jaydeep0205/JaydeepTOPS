@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\bin\Debug\16.Class Object.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\bin\Debug\16.Class Object.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\bin\Debug\16.Class Object.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\obj\Debug\16.Class Object.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\obj\Debug\16.Class Object.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\16.Class Object\obj\Debug\16.Class Object.pdb

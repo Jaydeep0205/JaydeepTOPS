@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\bin\Debug\8.Assignment.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\bin\Debug\8.Assignment.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\bin\Debug\8.Assignment.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\obj\Debug\8.Assignment.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\obj\Debug\8.Assignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\obj\Debug\8.Assignment.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\8.Assignment\obj\Debug\8.Assignment.pdb

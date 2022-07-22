@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\bin\Debug\_27.Replace_String.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\bin\Debug\_27.Replace_String.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\bin\Debug\_27.Replace_String.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\obj\Debug\27 . Replace String.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\obj\Debug\27 . Replace String.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\obj\Debug\_27.Replace_String.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\27 . Replace String\obj\Debug\_27.Replace_String.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\bin\Debug\_27.Replace_String.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\bin\Debug\_27.Replace_String.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\bin\Debug\_27.Replace_String.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\obj\Debug\27 . Replace String.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\obj\Debug\27 . Replace String.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\obj\Debug\_27.Replace_String.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\27 . Replace String\obj\Debug\_27.Replace_String.pdb

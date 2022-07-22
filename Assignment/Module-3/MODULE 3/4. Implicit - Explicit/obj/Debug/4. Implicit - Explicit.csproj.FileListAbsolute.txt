@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\bin\Debug\_4.Implicit___Explicit.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\bin\Debug\_4.Implicit___Explicit.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\bin\Debug\_4.Implicit___Explicit.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\obj\Debug\4. Implicit - Explicit.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\obj\Debug\4. Implicit - Explicit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\obj\Debug\_4.Implicit___Explicit.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\4. Implicit - Explicit\obj\Debug\_4.Implicit___Explicit.pdb

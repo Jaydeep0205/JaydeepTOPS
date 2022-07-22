@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\bin\Debug\_7.Max_Number.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\bin\Debug\_7.Max_Number.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\bin\Debug\_7.Max_Number.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\obj\Debug\7 .Max_Number.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\obj\Debug\7 .Max_Number.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\obj\Debug\_7.Max_Number.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\7 .Max_Number\obj\Debug\_7.Max_Number.pdb

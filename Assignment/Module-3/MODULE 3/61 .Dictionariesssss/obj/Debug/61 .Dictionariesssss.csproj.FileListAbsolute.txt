@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\obj\Debug\61 .Dictionariesssss.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\obj\Debug\_61.Dictionariesssss.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\obj\Debug\_61.Dictionariesssss.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\61 .Dictionariesssss\obj\Debug\61 .Dictionariesssss.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\bin\Debug\_61.Dictionariesssss.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\obj\Debug\61 .Dictionariesssss.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\obj\Debug\61 .Dictionariesssss.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\obj\Debug\_61.Dictionariesssss.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\61 .Dictionariesssss\obj\Debug\_61.Dictionariesssss.pdb

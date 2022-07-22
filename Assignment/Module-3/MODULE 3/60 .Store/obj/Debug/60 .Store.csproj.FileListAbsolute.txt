@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\bin\Debug\_60.Store.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\bin\Debug\_60.Store.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\bin\Debug\_60.Store.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\obj\Debug\60 .Store.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\obj\Debug\60 .Store.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\obj\Debug\_60.Store.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\60 .Store\obj\Debug\_60.Store.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\bin\Debug\_60.Store.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\bin\Debug\_60.Store.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\bin\Debug\_60.Store.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\obj\Debug\60 .Store.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\obj\Debug\60 .Store.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\obj\Debug\_60.Store.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\60 .Store\obj\Debug\_60.Store.pdb

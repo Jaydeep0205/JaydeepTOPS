@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\obj\Debug\39 .Employee Details.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\obj\Debug\39 .Employee Details.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\bin\Debug\_39.Employee_Details.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\bin\Debug\_39.Employee_Details.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\bin\Debug\_39.Employee_Details.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\obj\Debug\_39.Employee_Details.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\39 .Employee Details\obj\Debug\_39.Employee_Details.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\bin\Debug\_39.Employee_Details.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\bin\Debug\_39.Employee_Details.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\bin\Debug\_39.Employee_Details.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\obj\Debug\39 .Employee Details.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\obj\Debug\39 .Employee Details.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\obj\Debug\_39.Employee_Details.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\39 .Employee Details\obj\Debug\_39.Employee_Details.pdb

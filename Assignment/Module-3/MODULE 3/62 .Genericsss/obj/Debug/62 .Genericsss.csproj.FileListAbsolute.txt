@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\bin\Debug\_62.Genericsss.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\bin\Debug\_62.Genericsss.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\bin\Debug\_62.Genericsss.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\obj\Debug\62 .Genericsss.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\obj\Debug\62 .Genericsss.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\obj\Debug\_62.Genericsss.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\62 .Genericsss\obj\Debug\_62.Genericsss.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\bin\Debug\_62.Genericsss.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\bin\Debug\_62.Genericsss.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\bin\Debug\_62.Genericsss.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\obj\Debug\62 .Genericsss.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\obj\Debug\62 .Genericsss.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\obj\Debug\_62.Genericsss.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\62 .Genericsss\obj\Debug\_62.Genericsss.pdb

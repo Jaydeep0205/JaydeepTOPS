@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\bin\Debug\_46.Class_Abstract.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\bin\Debug\_46.Class_Abstract.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\bin\Debug\_46.Class_Abstract.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\obj\Debug\46 . Class Abstract.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\obj\Debug\46 . Class Abstract.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\obj\Debug\_46.Class_Abstract.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\46 . Class Abstract\obj\Debug\_46.Class_Abstract.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\bin\Debug\_46.Class_Abstract.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\bin\Debug\_46.Class_Abstract.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\bin\Debug\_46.Class_Abstract.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\obj\Debug\46 . Class Abstract.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\obj\Debug\46 . Class Abstract.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\obj\Debug\_46.Class_Abstract.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\46 . Class Abstract\obj\Debug\_46.Class_Abstract.pdb

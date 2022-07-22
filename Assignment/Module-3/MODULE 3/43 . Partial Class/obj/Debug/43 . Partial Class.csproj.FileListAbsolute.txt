@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\bin\Debug\_43.Partial_Class.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\bin\Debug\_43.Partial_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\bin\Debug\_43.Partial_Class.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\obj\Debug\43 . Partial Class.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\obj\Debug\43 . Partial Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\obj\Debug\_43.Partial_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\43 . Partial Class\obj\Debug\_43.Partial_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\bin\Debug\_43.Partial_Class.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\bin\Debug\_43.Partial_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\bin\Debug\_43.Partial_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\obj\Debug\43 . Partial Class.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\obj\Debug\43 . Partial Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\obj\Debug\_43.Partial_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\43 . Partial Class\obj\Debug\_43.Partial_Class.pdb

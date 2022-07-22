@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\bin\Debug\_49.Factorial.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\bin\Debug\_49.Factorial.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\bin\Debug\_49.Factorial.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\obj\Debug\49 . Factorial.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\obj\Debug\_49.Factorial.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\49 . Factorial\obj\Debug\_49.Factorial.pdb

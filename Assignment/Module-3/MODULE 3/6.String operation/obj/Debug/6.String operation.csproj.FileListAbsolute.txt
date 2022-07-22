@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\bin\Debug\6.String operation.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\bin\Debug\6.String operation.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\bin\Debug\6.String operation.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\obj\Debug\6.String operation.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\obj\Debug\6.String operation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\obj\Debug\6.String operation.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\6.String operation\obj\Debug\6.String operation.pdb

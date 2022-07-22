@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\bin\Debug\20.Factorial.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\bin\Debug\20.Factorial.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\bin\Debug\20.Factorial.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\obj\Debug\20 .Factorial.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\obj\Debug\20.Factorial.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\20.Factorial\obj\Debug\20.Factorial.pdb

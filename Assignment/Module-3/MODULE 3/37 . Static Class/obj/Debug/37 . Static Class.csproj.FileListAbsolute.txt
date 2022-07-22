@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\bin\Debug\_37.Static_Class.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\bin\Debug\_37.Static_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\bin\Debug\_37.Static_Class.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\obj\Debug\37 . Static Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\obj\Debug\_37.Static_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\37 . Static Class\obj\Debug\_37.Static_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\bin\Debug\_37.Static_Class.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\bin\Debug\_37.Static_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\bin\Debug\_37.Static_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\obj\Debug\37 . Static Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\obj\Debug\_37.Static_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\37 . Static Class\obj\Debug\_37.Static_Class.pdb

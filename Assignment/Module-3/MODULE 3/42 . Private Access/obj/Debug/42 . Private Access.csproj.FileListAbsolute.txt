@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\bin\Debug\_42.Private_Access.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\bin\Debug\_42.Private_Access.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\bin\Debug\_42.Private_Access.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\obj\Debug\42 . Private Access.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\obj\Debug\_42.Private_Access.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\42 . Private Access\obj\Debug\_42.Private_Access.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\bin\Debug\_42.Private_Access.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\bin\Debug\_42.Private_Access.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\bin\Debug\_42.Private_Access.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\obj\Debug\42 . Private Access.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\obj\Debug\_42.Private_Access.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\42 . Private Access\obj\Debug\_42.Private_Access.pdb

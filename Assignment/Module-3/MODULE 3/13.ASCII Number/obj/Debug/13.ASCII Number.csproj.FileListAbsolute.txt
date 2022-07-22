@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\bin\Debug\13.ASCII Number.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\bin\Debug\13.ASCII Number.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\bin\Debug\13.ASCII Number.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\obj\Debug\13.ASCII Number.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\obj\Debug\13.ASCII Number.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\13.ASCII Number\obj\Debug\13.ASCII Number.pdb

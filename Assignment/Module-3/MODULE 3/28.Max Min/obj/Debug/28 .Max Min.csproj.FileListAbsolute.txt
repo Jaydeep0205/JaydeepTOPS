@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\bin\Debug\28.Max Min.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\bin\Debug\28.Max Min.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\bin\Debug\28.Max Min.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\obj\Debug\28 .Max Min.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\obj\Debug\28 .Max Min.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\obj\Debug\28.Max Min.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\28.Max Min\obj\Debug\28.Max Min.pdb

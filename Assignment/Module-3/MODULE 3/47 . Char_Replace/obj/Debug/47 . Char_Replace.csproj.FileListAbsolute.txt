@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\bin\Debug\_47.Char_Replace.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\bin\Debug\_47.Char_Replace.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\bin\Debug\_47.Char_Replace.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\obj\Debug\47 . Char_Replace.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\obj\Debug\47 . Char_Replace.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\obj\Debug\_47.Char_Replace.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\47 . Char_Replace\obj\Debug\_47.Char_Replace.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\bin\Debug\_47.Char_Replace.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\bin\Debug\_47.Char_Replace.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\bin\Debug\_47.Char_Replace.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\obj\Debug\47 . Char_Replace.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\obj\Debug\47 . Char_Replace.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\obj\Debug\_47.Char_Replace.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\47 . Char_Replace\obj\Debug\_47.Char_Replace.pdb

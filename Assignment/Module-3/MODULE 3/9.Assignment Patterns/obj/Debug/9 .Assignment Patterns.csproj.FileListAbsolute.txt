@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\bin\Debug\9.Assignment Patterns.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\bin\Debug\9.Assignment Patterns.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\bin\Debug\9.Assignment Patterns.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\obj\Debug\9 .Assignment Patterns.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\obj\Debug\9 .Assignment Patterns.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\obj\Debug\9.Assignment Patterns.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\9.Assignment Patterns\obj\Debug\9.Assignment Patterns.pdb

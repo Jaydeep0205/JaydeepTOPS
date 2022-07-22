@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\bin\Debug\_57.Constructor.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\bin\Debug\_57.Constructor.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\bin\Debug\_57.Constructor.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\obj\Debug\57 .Constructor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\obj\Debug\57 .Constructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\obj\Debug\_57.Constructor.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\57 .Constructor\obj\Debug\_57.Constructor.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\bin\Debug\_57.Constructor.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\bin\Debug\_57.Constructor.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\bin\Debug\_57.Constructor.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\obj\Debug\57 .Constructor.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\obj\Debug\57 .Constructor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\obj\Debug\_57.Constructor.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\57 .Constructor\obj\Debug\_57.Constructor.pdb

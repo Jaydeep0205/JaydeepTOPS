@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\obj\Debug\56 .Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\obj\Debug\_56.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\56 .Abstract_Class\obj\Debug\_56.Abstract_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\bin\Debug\_56.Abstract_Class.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\obj\Debug\56 .Abstract_Class.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\obj\Debug\_56.Abstract_Class.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\56 .Abstract_Class\obj\Debug\_56.Abstract_Class.pdb

@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\bin\Debug\_40.Inheritance.exe.config
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\bin\Debug\_40.Inheritance.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\bin\Debug\_40.Inheritance.pdb
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\obj\Debug\40. Inheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\obj\Debug\40. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\obj\Debug\_40.Inheritance.exe
+C:\Users\DELL\Desktop\C#\MODULE 3\7.Maximum Number\40. Inheritance\obj\Debug\_40.Inheritance.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\bin\Debug\_40.Inheritance.exe.config
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\bin\Debug\_40.Inheritance.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\bin\Debug\_40.Inheritance.pdb
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\obj\Debug\40. Inheritance.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\obj\Debug\40. Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\obj\Debug\_40.Inheritance.exe
+C:\Users\DELL\Desktop\C#\Module-3\MODULE 3\40. Inheritance\obj\Debug\_40.Inheritance.pdb
